@@ -1,0 +1,6 @@
+com\xyz\book\service\BookService.class
+com\xyz\book\model\Book.class
+com\xyz\book\repository\BookRepository.class
+com\xyz\book\service\BookServiceImpl.class
+com\xyz\Application.class
+com\xyz\EsConfig.class
